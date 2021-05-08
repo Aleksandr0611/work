@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16",
+        "monolog/monolog": "^2.1",
+        "symfony/console": "^5.1",
+      "ext-iconv": "^7.4",
+      "ext-json": "*",
+        "symfony/http-foundation": "^5.2",
+        "symfony/http-client": "^5.2",
+        "mesilov/bitrix24-php-sdk": "^0.7.0",
+      "ext-gd": "^7.4",
+      "ext-pdo": "^7.4",
+        "mpdf/mpdf": "^8.0"
+    }
+}
